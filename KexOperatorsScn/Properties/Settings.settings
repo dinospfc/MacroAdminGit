@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="KeX_C_Aq_MacroAdmin.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DBUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">kex_frontend</Value>
+    </Setting>
+    <Setting Name="DBPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">kex_frontend</Value>
+    </Setting>
+    <Setting Name="DBServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">KeX-KP10-TS</Value>
+    </Setting>
+    <Setting Name="DBShema" Type="System.String" Scope="User">
+      <Value Profile="(Default)">kex</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
